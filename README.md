@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Andrew Park 
-- 👀 I'm a new student to Computer Science and thus learning different languages at the moment. 
+- 👀 I'm a new student to Computer Science and thus in the process of learning different languages at the moment. 
 - 🌱 I’m currently learning Java and JS.
 - 📫 How to reach me: 
       email: andrewpark2396@gmail.com
