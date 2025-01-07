@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Andrew Park 
-- 👀 I'm a new student to Computer Science and thus in the process of learning different languages at the moment. 
-- 🌱 I’m currently learning Java and JS.
+- 👀 I completed my Computer Science Degree at the end of December 2024 at UBC
+- 🌱 I am confident in Java, JavaScript and practicing Python
 - 📫 How to reach me: 
       email: andrewpark2396@gmail.com
 
