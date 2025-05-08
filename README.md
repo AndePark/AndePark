@@ -1,10 +1,9 @@
 ## 👋 Hi, my name is Andrew Park  
-- 👀 I completed my Computer Science Degree from the University of British Columbia in December 2024  
-- 🌱 I am most confident in Java, JavaScript and practicing Python  
-- 💼 I'm currently developing an iOS app designed as a platform for users to share and save images  
-  - The idea came from past relationship arguments where one person remembers things differently than the other  
-  - This app serves as a "receipt" to keep track of shared moments  
-
+- 👀 I will have completed my degree in Computer Science from the University of British Columbia in May 2025.
+- 🌱 I am most confident in Java, JavaScript and Python. 
+- 💼 I'm currently working on designing a web app that allows users to add comments directly to videos shared amongst the user's friends
+  - This idea came about because some of my friends aren't living in my city anymore and we've recently been on a binge for reality TV
+  - Having the ability to comment gives us a chance to share what each of us are thinking during a particular scene  
 
 
 ## 🌐 Socials:
