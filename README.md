@@ -1,9 +1,6 @@
 ## 👋 Hi, my name is Andrew Park  
 - 👀 I will have completed my degree in Computer Science from the University of British Columbia in May 2025.
 - 🌱 I am most confident in Java, JavaScript and Python. 
-- 💼 I'm currently working on designing a web app that allows users to add comments directly to videos shared amongst the user's friends
-  - This idea came about because some of my friends aren't living in my city anymore and we've recently been on a binge for reality TV
-  - Having the ability to comment gives us a chance to share what each of us are thinking during a particular scene  
 
 
 ## 🌐 Socials:
