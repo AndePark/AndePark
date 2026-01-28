@@ -1,6 +1,7 @@
 ## 👋 Hi, my name is Andrew Park  
 - 👀 I will have completed my degree in Computer Science from the University of British Columbia in May 2025.  
-- 🌱 I am most confident in Java, JavaScript, and Python.  
+- 🌱 I am most confident in Java, React, Python, and TypeScript.
+- 💻 I'm currently working on building a web app that's designed to help kids with learning delays. This idea came about because of my part time role as an English tutor where a lot of my students struggle with sounding out things like letters. The web app is built with these students in mind, so features like games, flash card, and playback are key. 
 
 ## 🌐 Webpage  
 [![Visit My Website](https://img.shields.io/badge/Webpage-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-website-4-24si.onrender.com/)
